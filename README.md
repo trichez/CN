@@ -1,2 +1,2 @@
 # CN
-repositório para códigos do CCCR Cálculo Numérico
+repositório para códigos do CCR Cálculo Numérico
