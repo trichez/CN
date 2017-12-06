@@ -20,7 +20,7 @@ Y(count) = y0;
 
 while count < n do
 
-    Y(count+1) = Y(count) + dy(X(count),Y(count));
+    Y(count+1) = Y(count) + h*dy(X(count),Y(count));
     
     printf("i:%d(%f, %f)\n ",count ,X(count),Y(count));
     count = count +1;   
